@@ -1,0 +1,6 @@
+ASU_OFFICIAL_WEB_URL = 'https://www.asu.ru'
+ASU_TELEGRAM_NEWS_URL = 'https://t.me/asuinfo'
+ASU_VK_NEWS_URL = 'https://vk.com/altsu_official'
+ASU_OK_NEWS_URL = 'ok.ru/altsu'
+ASU_DZEN_NEWS_URL = 'dzen.ru/altsu'
+ASU_RUTUBE_NEWS_URL = 'rutube.ru/u/asu'

@@ -1,0 +1,1 @@
+CREATE DATABASE asu_schedule_bot;

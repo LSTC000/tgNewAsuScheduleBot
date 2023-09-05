@@ -1,0 +1,45 @@
+# CANCELS.
+CANCEL_TO_MAIN_MENU_IKB_MESSAGE = '⬅️ Вернуться в главное меню'
+CHAT_GPT_CANCEL_TO_MAIN_MENU_IKB_MESSAGE = '⬅️ Вернуться в главное меню'
+CANCEL_TO_ADMIN_MENU_IKB_MESSAGE = '⬅️ Вернуться в меню администратора'
+CANCEL_TO_SCHEDULE_MENU_IKB_MESSAGE = '⬅️ Вернуться в меню расписания'
+# USERS COMMANDS.
+START_COMMAND_IKB_MESSAGE = 'Давай начнём 🚀'
+# MAIN MENU.
+STUDENT_SCHEDULE_IKB_MESSAGE = '👨‍🎓 Студент'
+LECTURER_SCHEDULE_IKB_MESSAGE = '👩‍🏫 Преподаватель'
+USER_REVIEW_IKB_MESSAGE = '✏ Оставить отзыв'
+CONFIRM_USER_REVIEW_IKB_MESSAGE = '✅ Да'
+CANCEL_USER_REVIEW_IKB_MESSAGE = '❌ Нет'
+USER_ALERT_ON_IKB_MESSAGE = '🔔 Включить уведомления'
+USER_ALERT_OFF_IKB_MESSAGE = '🔕 Отключить уведомления'
+ASU_BUILDINGS_IKB_MASSAGE = '🏫 Наши корпуса'
+CHAT_GPT_MENU_IKB_MESSAGE = '💬 Поговорить с ChatGPT'
+SOCIAL_IKB_MESSAGE = '🌐 Наши соц. сети'
+HELP_IKB_MESSAGE = '❓ Информация о боте'
+# ADMIN MENU.
+VIEW_REVIEWS_MENU_IKB_MESSAGE = '💬 Просмотр отзывов'
+ALERT_FOR_USERS_IKB_MESSAGE = '🗞️ Отправить объявление'
+CONFIRM_ALERT_FOR_USERS_IKB_MESSAGE = '✅ Да'
+CANCEL_ALERT_FOR_USERS_IKB_MESSAGE = '❌ Нет'
+# VIEW REVIEWS.
+CONFIRM_DELETE_REVIEW_IKB_MESSAGE = '✅ Да'
+CANCEL_DELETE_REVIEW_IKB_MESSAGE = '❌ Нет'
+DELETE_REVIEW_IKB_MESSAGE = '🗑️ Удалить отзыв'
+VIEW_ALL_REVIEWS_IKB_MESSAGE = '📖 Все отзывы'
+VIEW_LIMIT_REVIEWS_IKB_MESSAGE = '✏ Ввести количество отзывов'
+# CHAT GPT.
+CHAT_GPT_CLEAR_HISTORY_IKB_MESSAGE = '🗑️ Очистить историю диалога'
+CONFIRM_CHAT_GPT_CLEAR_HISTORY_IKB_MESSAGE = '✅ Да'
+CANCEL_CHAT_GPT_CLEAR_HISTORY_IKB_MESSAGE = '❌ Нет'
+# SOCIALS.
+ASU_OFFICIAL_WEB_URL_IKB_MESSAGE = 'Официальный сайт'
+ASU_TELEGRAM_NEWS_URL_IKB_MESSAGE = 'Telegram'
+ASU_VK_NEWS_URL_IKB_MESSAGE = 'ВКонтакте'
+ASU_OK_NEWS_URL_IKB_MESSAGE = 'Одноклассники'
+ASU_DZEN_NEWS_URL_IKB_MESSAGE = 'Яндекс Дзен'
+ASU_RUTUBE_NEWS_URL_IKB_MESSAGE = 'Rutube'
+# SCHEDULE MENU.
+TOMORROW_SCHEDULE_IKB_MESSAGE = '➡️ Расписание на завтра'
+WEEKLY_SCHEDULE_IKB_MESSAGE = '📖 Расписание на текущую неделю'
+CALENDER_SCHEDULE_IKB_MESSAGE = '📅 Календарь'

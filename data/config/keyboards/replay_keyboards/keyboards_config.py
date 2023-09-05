@@ -1,0 +1,1 @@
+RESIZE_KEYBOARD = True

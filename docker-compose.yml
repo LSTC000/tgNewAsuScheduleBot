@@ -1,0 +1,34 @@
+version: '3'
+
+services:
+  redis:
+    image: redis:7.2-alpine
+    command: redis-server
+    restart: on-failure
+    ports:
+      - '6379:6379'
+    volumes:
+      - 'redisdata:/data'
+  postgres:
+    image: postgres:15-alpine
+    restart: on-failure
+    env_file:
+      - ./.env
+    ports:
+      - '5432:5432'
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - .:/docker-entrypoint-initdb.d
+  bot:
+    build: .
+    command: python3.11 bot.py
+    env_file:
+      - ./.env
+    restart: always
+    depends_on:
+      - redis
+      - postgres
+
+volumes:
+  pgdata:
+  redisdata:

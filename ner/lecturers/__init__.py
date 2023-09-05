@@ -1,0 +1,1 @@
+from .find_lecturer_in_text import find_lecturer_in_text

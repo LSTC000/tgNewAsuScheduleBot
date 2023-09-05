@@ -1,0 +1,1 @@
+Download vosk-model-ru-0.42 from https://alphacephei.com/vosk/models

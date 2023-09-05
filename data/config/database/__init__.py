@@ -1,0 +1,10 @@
+__all__ = ['POSTGRES_HOST', 'POSTGRES_USER', 'POSTGRES_PASSWORD', 'POSTGRES_DATABASE', 'PG_URL']
+
+
+from .database_config import (
+    POSTGRES_HOST,
+    POSTGRES_USER,
+    POSTGRES_PASSWORD,
+    POSTGRES_DATABASE,
+    PG_URL
+)

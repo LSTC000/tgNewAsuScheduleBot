@@ -1,0 +1,29 @@
+# INLINE KEYBOARDS.
+LAST_IKB_REDIS_KEY = 'last_ikb'
+# PICKERS.
+CALENDAR_DATE_REDIS_KEY = 'calendar_date'
+# MAIN MENU.
+USER_REVIEW_REDIS_KEY = 'user_review'
+LAST_STUDENT_NAME_REDIS_KEY = 'last_student_name'
+LAST_STUDENT_URL_REDIS_KEY = 'last_student_url'
+LAST_LECTURER_NAME_REDIS_KEY = 'last_lecturer_name'
+LAST_LECTURER_URL_REDIS_KEY = 'last_lecturer_url'
+# PARSERS.
+TODAY_DATE_CODE_REDIS_KEY = 'today_date_code'
+TOMORROW_DATE_CODE_REDIS_KEY = 'tomorrow_date_code'
+# ADMIN MENU.
+ALERT_FOR_USERS_REDIS_KEY = 'alert_for_users'
+# VIEW REVIEWS.
+REVIEWS_DATA_REDIS_KEY = 'reviews_data'
+REVIEW_NUMBER_REDIS_KEY = 'review_number'
+COUNT_REVIEWS_REDIS_KEY = 'count_reviews'
+# CHAT GPT.
+CHAT_GPT_HISTORY_REDIS_KEY = 'chat_gpt_history'
+# STUDENT SCHEDULE.
+STUDENTS_DATA_REDIS_KEY = 'students_data'
+STUDENT_NAME_REDIS_KEY = 'student_name'
+STUDENT_URL_REDIS_KEY = 'student_url'
+# LECTURER SCHEDULE.
+LECTURERS_DATA_REDIS_KEY = 'lecturers_data'
+LECTURER_NAME_REDIS_KEY = 'lecturer_name'
+LECTURER_URL_REDIS_KEY = 'lecturer_url'
