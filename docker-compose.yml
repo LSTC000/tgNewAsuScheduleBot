@@ -8,7 +8,7 @@ services:
     ports:
       - '6379:6379'
     volumes:
-      - 'redisdata:/data'
+      - redisdata:/data
   postgres:
     image: postgres:15-alpine
     restart: on-failure
